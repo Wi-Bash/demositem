@@ -1,11 +1,11 @@
 import React from 'react';
 
-const ButtonNavbar = () => {
+const NotFound = () => {
     return (
         <div>
-            
+            <h1>Erreur 404</h1>
         </div>
     );
 };
 
-export default ButtonNavbar;
+export default NotFound;
