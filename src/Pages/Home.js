@@ -1,10 +1,12 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+import Slideshow from '../components/Slideshow';
 
 const Home = () => {
     return (
         <div>
-            <Navigation/>
+            <Navigation />
+            <Slideshow/>
             
         </div>
     );
