@@ -1,0 +1,12 @@
+.containerhome{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color:red;
+}
+.contenthome{
+    display:flex;
+    flex:3;
+    justify-content:center;
+    background-color:blue;
+}
