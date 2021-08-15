@@ -1,10 +1,12 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+import Slideshow from '../components/Slideshow';
 
 const About = () => {
     return (
         <div>
             <Navigation />
+            <Slideshow/>
             <h1>About</h1>
             <p>
             Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la
