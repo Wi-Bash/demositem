@@ -11,8 +11,167 @@ const Home = () => {
             
             <div className="containerhome">
                 <Pub/>
+                    {/*On va placer ici le contenue de la pages home*/}
                     <div className="contenthome">
-                        <h1>Home</h1>
+                        
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                          
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div className="ContainerNews">
+                            <div className="News">
+                                <div className="News-Image">
+                                    <img src="http://placehold.it/180x90" alt=""/>
+                                </div>
+                                <div className="News-Content">
+                                    <div>
+                                        <h2>News</h2>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 <Pub/>
             </div>
