@@ -1,0 +1,33 @@
+.containermaville{
+    display: flex;
+    flex-direction: column;
+}
+.content1{
+    background-color:#707070;
+    height:500px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    border-radius: 10px;
+    padding: 10px;
+}
+.content1g{
+    flex: 1;
+    display: flex;
+    flex-direction:column;
+}
+
+.content1d{
+    flex: 1;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+
+}
+
+
+
+.spacemaville{
+    width:100%;
+    height:50px;
+}
