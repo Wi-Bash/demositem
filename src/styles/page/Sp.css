@@ -1,0 +1,19 @@
+.containerchoixSP {
+    width: 80%;
+    background-color: #707070d5;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.choixSP{
+    width: 30%;
+    height: 100px;
+    background-color: #b8b8b8b9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px;
+}
