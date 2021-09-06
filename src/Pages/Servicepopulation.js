@@ -1,7 +1,15 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+import { useHistory } from 'react-router';
 
 const Servicepopulation = () => {
+    const history = useHistory();
+
+    const contactClick = () => {
+        history.push('/contacter');
+    };
+
+
     return (
         <div>
             <Navigation/>
@@ -11,14 +19,14 @@ const Servicepopulation = () => {
                     <div className="News-Image">
                         <img src="http://placehold.it/300x60" alt=""/>
                     </div>
-                    <h3>Choisissez votre service 1</h3>
+                    <button onClick={contactClick}>Contacter</button>
                 </div>
 
                 <div className="choixSP">
                     <div className="News-Image">
                         <img src="http://placehold.it/300x60" alt=""/>
                     </div>
-                    <h3>Choisissez votre service 2</h3>
+                    <h3>Envoie formulaire</h3>
                 </div>
 
 
@@ -26,7 +34,7 @@ const Servicepopulation = () => {
                     <div className="News-Image">
                         <img src="http://placehold.it/300x60" alt=""/>
                     </div>
-                    <h3>Choisissez votre service 3</h3>
+                    <button onClick={contactClick}>Contacter Gendarmerie</button>
                 </div>
                 <div className="choixSP">
                     <div className="News-Image">
