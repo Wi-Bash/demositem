@@ -19,7 +19,7 @@ const Servicepopulation = () => {
                     <div className="News-Image">
                         <img src="http://placehold.it/300x60" alt=""/>
                     </div>
-                    <button onClick={contactClick}>Contacter</button>
+                    <button className="btnsp" onClick={contactClick}>Contacter</button>
                 </div>
 
                 <div className="choixSP">
@@ -34,7 +34,7 @@ const Servicepopulation = () => {
                     <div className="News-Image">
                         <img src="http://placehold.it/300x60" alt=""/>
                     </div>
-                    <button onClick={contactClick}>Contacter Gendarmerie</button>
+                    <button className="btnsp" onClick={contactClick}>Contacter Gendarmerie</button>
                 </div>
                 <div className="choixSP">
                     <div className="News-Image">
